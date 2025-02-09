@@ -30,12 +30,12 @@ This innovative approach provides a lower-cost alternative to traditional launch
 
 ## Links:
 
-Launch Sequence:🔗 https://huggingface.co/spaces/eaglelandsonce/Launch_Sequence
-CrewAI Redesign:🔗 https://huggingface.co/spaces/eaglelandsonce/AIstronauts_Hackathon_Engineers 
-CrewAI Press Release:🔗 https://huggingface.co/spaces/eaglelandsonce/AIstronauts_Hackathon
-Orbit Simulation:🔗 https://huggingface.co/spaces/eaglelandsonce/Spin_Launch_LabLabAI
-GitHub: 🔗 https://github.com/qaillc/AIstronautsHackathon
-YouTube Video Demo: 🔗 https://www.youtube.com/watch?v=23pJG5Wenqs
+### Launch Sequence:🔗 https://huggingface.co/spaces/eaglelandsonce/Launch_Sequence
+### CrewAI Redesign:🔗 https://huggingface.co/spaces/eaglelandsonce/AIstronauts_Hackathon_Engineers 
+### CrewAI Press Release:🔗 https://huggingface.co/spaces/eaglelandsonce/AIstronauts_Hackathon
+### Orbit Simulation:🔗 https://huggingface.co/spaces/eaglelandsonce/Spin_Launch_LabLabAI
+### GitHub: 🔗 https://github.com/qaillc/AIstronautsHackathon
+### YouTube Video Demo: 🔗 https://www.youtube.com/watch?v=23pJG5Wenqs
 
 
 
